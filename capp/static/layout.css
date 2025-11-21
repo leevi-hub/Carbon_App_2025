@@ -18,7 +18,7 @@ body {
 
 /*NAVBAR */
 .section_carbon_app_navbar {
-  background-color: #ff5a00; /* Skyss-like orange */
+  background-color: #ff5a00; 
 }
 
 .carbon_app_navbar {
@@ -218,5 +218,6 @@ body {
     width: 100%;
   }
 }
+
 
 
